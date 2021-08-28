@@ -32,7 +32,7 @@ These are the available demos in this repository.
 | [crash](./Quality/Crash) | [![version](https://img.shields.io/badge/Release-1.2.1.300-yellow)](./Quality/Crash) | [Getting Started](https://developer.huawei.com/consumer/en/doc/development/AppGallery-connect-Guides/agc-crash-getstarted-0000001055260538) <br/> [API Reference](https://developer.huawei.com/consumer/en/doc/development/AppGallery-connect-References/overview-android-0000001055260460) |
  
 ## Precautions
-The agc-demos project contains 19 independent projects. After downloading the code, you can load different nested projects to the IDE as required. And you can run each project independently.
+The agc-demos project contains full-platform demos of 9 services.**Only the latest SDK or plug-in versions of each service and Android platform are listed.** After downloading the code, you can load different nested projects to the IDE as required. And you can run each project independently.
 
 ## Question or issues
 If you have questions about how to use AppGallery Connect Demos, try the following options:  

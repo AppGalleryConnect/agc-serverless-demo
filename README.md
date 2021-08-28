@@ -1,1 +1,0 @@
-AppGalleryConnect/agc-serverless-demo

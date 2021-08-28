@@ -40,4 +40,4 @@ If you have questions about how to use AppGallery Connect Demos, try the followi
 * [Huawei Developer Forum](https://forums.developer.huawei.com/forumPortal/en/home?fid=0101188387844930001) AppGallery Module is great for general questions, or seeking recommendations and opinions.
 * [Submit ticket online](https://developer.huawei.com/consumer/en/support/feedback/#/) If you encounter a serious or urgent problem, submit a trouble ticket online to contact Huawei technical support.
 
-If you run into a bug in our samples, please submit an [issue](https://github.com/AppGalleryConnect/agc-demos/issues) to the Repository. Even better you can submit a [Pull Request](https://github.com/AppGalleryConnect/agc-demos/pulls) with a fix.
+If you run into a bug in our samples, please submit an [issue](https://github.com/AppGalleryConnect/agc-serverless-demo/issues) to the Repository. Even better you can submit a [Pull Request](https://github.com/AppGalleryConnect/agc-serverless-demo/pulls) with a fix.
